@@ -1,0 +1,4 @@
+coding gender 1 = male 0 = female
+
+Data scoring procedures:
+In the FC-MPDQ, 1 means that the statement best describes you, and 4 means that the statement least describes you.
